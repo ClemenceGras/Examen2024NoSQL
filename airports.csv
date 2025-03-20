@@ -1,0 +1,11 @@
+﻿id;ident;type;name;latitude_deg;longitude_deg;elevation_ft;continent;iso_country;iso_region;municipality;scheduled_service;gps_code;iata_code;local_code
+1;CDG;large_airport;Charles de Gaulle Airport;49.012779;2.55;392;EU;FR;FR-IDF;Paris;yes;LFPG;CDG;
+2;LHR;large_airport;London Heathrow Airport;51.4706;-0.461941;83;EU;GB;GB-ENG;London;yes;EGLL;LHR;
+3;JFK;large_airport;John F Kennedy International Airport;40.641311;-73.778139;13;NA;US;US-NY;New York;yes;KJFK;JFK;
+4;SFO;large_airport;San Francisco International Airport;37.621313;-122.378955;13;NA;US;US-CA;San Francisco;yes;KSFO;SFO;
+5;NRT;large_airport;Narita International Airport;35.771986;140.392850;141;AS;JP;JP-12;Tokyo;yes;RJAA;NRT;
+6;MRS;large_airport;Marseille Provence Airport;43.436667;5.215000;74;EU;FR;FR-PAC;Marseille;yes;LFML;MRS;
+7;NCE;large_airport;Nice Côte d'Azur Airport;43.658411;7.215872;12;EU;FR;FR-PAC;Nice;yes;LFMN;NCE;
+8;LIS;large_airport;Lisbon Humberto Delgado Airport;38.774167;-9.134167;374;EU;PT;PT-11;Lisbon;yes;LPPT;LIS;
+9;FRA;large_airport;Frankfurt am Main Airport;50.0333338;8.570556;364;EU;DE;DE-HE;Frankfurt;yes;EDDF;FRA;
+10;SYD;large_airport;Sydney Kingsford Smith International Airport;-33.9399222;151.1752764;21;OC;AU;AU-NSW;Sydney;yes;YSSY;SYD;

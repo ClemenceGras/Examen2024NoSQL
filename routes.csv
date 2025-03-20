@@ -1,0 +1,10 @@
+﻿route_id;start_airport_id;end_airport_id;start_iata;end_iata;equipment
+1;1;2;CDG;LHR;A380
+2;1;3;CDG;JFK;B777
+3;2;3;LHR;JFK;A320
+4;3;4;JFK;SFO;A380
+5;4;5;SFO;NRT;B787
+6;1;6;CDG;MRS;A320
+7;1;7;CDG;NCE;A320
+8;6;7;MRS;NCE ;ATR72
+9;SYD;;;;
